@@ -19,3 +19,6 @@ ALL QUESTIONS
     the same day.
 
     Find and return the maximum profit you can achieve.
+
+3.ROTATE ARRAY
+    Given an array, rotate the array to the right "k" steps, where "k" is non-negative.
