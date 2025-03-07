@@ -22,3 +22,6 @@ ALL QUESTIONS
 
 3.ROTATE ARRAY
     Given an array, rotate the array to the right "k" steps, where "k" is non-negative.
+
+4.CONTAINS DUPLICATE
+    Given an array of integer nums, return true if any value appears at least twice in the array, and false if every element is distinct.
